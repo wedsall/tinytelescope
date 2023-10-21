@@ -11,6 +11,8 @@ Make this for yourself, a friend or family member who loves everything space. Co
 
 This current version does not disable at night because the Le Potato I was using didn't seem to have that functionality. If you know how to do it, please help. :)
 
+This setup does not require a network connection. You only need network for the initial setup/download, then it's standalone.
+
 It is expected that you have some basic linux knowledge and python knowledge.
 
 ## How it works
