@@ -13,7 +13,7 @@ It is expected that you have some basic linux knowledge and python knowledge.
 
 ## How it works
 
-Your system will need python3 and all of the packages needed by download.py and photos.py. You can ignore get_images.py for now.
+Your system will need python3 and all of the packages needed by download.py and photos.py.
 
 You will need to download the images. This download.py script reads the data from all_image_info5.json and will attempt to download every file. 
 <code>python3 download.py</code>
@@ -36,3 +36,13 @@ Next create the photos.sh script:
 
 Reboot and it should start.
 
+##Files
+
+| File | Description |
+| --- | ----------- |
+| all_image_info5.json | A curated list of Hubble and James Webb top photos |
+| download.py | Used for downloading the photos to your device |
+| get_image_data.py | The code I used to pull the photo data. You can modify and use this as needed |
+| photos.py | The code that runs the device. |
+| digital_frame.desktop | On Le Potato this goes in ~/.config/autostart/ to automatically start the photos.py program on startup |
+| photos.sh | A shell script to start the program |

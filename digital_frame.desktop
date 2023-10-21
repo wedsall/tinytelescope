@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Digital Photo Frame
+Exec=/home/whoever/photos.sh
