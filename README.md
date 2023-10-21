@@ -18,7 +18,7 @@ Your system will need python3 and all of the packages needed by download.py and 
 You will need to download the images. This download.py script reads the data from all_image_info5.json and will attempt to download every file. 
 <code>python3 download.py</code>
 
-Next create a startup script on your device. For the Le Potato this was ~/.config/autostart/digital_frame.desktop
+Next create a startup script on your device. For the Le Potato this was /home/whoever/.config/autostart/digital_frame.desktop
 <code>
 :~/.config/autostart $ more digital_frame.desktop
 [Desktop Entry]
