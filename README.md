@@ -36,7 +36,7 @@ Next create the photos.sh script:
 
 Reboot and it should start.
 
-##Files
+## Files
 
 | File | Description |
 | --- | ----------- |
