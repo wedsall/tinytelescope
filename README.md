@@ -3,6 +3,8 @@ DIY raspberry pi / le potato photo box for Space Geeks
 
 I made this using a Libre Computer (Le Potato) https://libre.computer/products/aml-s905x-cc/. You could use a Raspberry Pi as well but I recommend at least 1GB of memory (2+ better) because some of the space images can be huge.
 
+![alt text](https://github.com/wedsall/tinytelescope/blob/main/20231021_140837.jpg?raw=true)
+
 ## Who needs this?
 
 Make this for yourself, a friend or family member who loves everything space. Connect it up to a tv or monitor, power it up and let it go. This loops through Hubble and James Webb telescope high resolution images and also displays the text that is included on each photo's page. The title of the image is displayed on the top right. Images cycle every 30-60 seconds and can be configured to your liking.
